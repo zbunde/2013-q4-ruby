@@ -50,3 +50,6 @@ end
 
 # Load models from models directory, like Rails
 Dir['./models/*.rb'].each { |file| require file }
+
+# Enable use of .html.erb extension
+Tilt.register Tilt::ERBTemplate, 'html.erb'
