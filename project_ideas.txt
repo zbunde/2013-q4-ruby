@@ -1,4 +1,7 @@
 Some project ideas:
-- 
-- 
-- 
+- a private homepage for people to login to while house is listed for sale, also has public side. Within site have slideshow, private login for house owner, all documents required for signing for purchase...
+
+-a website that allows you to track your budjet and lets you pay bills directly thru it.
+
+
+-
